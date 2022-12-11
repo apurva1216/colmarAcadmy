@@ -316,22 +316,6 @@ footer {
     margin-bottom: 1%;
 }
 
-footer > * {
-    font-size:small;
-    color: var(--dark-grey);
-    margin-top: 0;
-    padding-top: 0.5%;
-}
-
-footer ul {
-    display: flex;
-    list-style: none;
-}
-
-footer a {
-    text-decoration: none;
-    color: var(--dark-grey)
-}
 
 footer li {
     padding: 0 1em;
